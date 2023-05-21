@@ -13,7 +13,7 @@ Estou sempre buscando aprimorar minha habilidades que mais estimo.
 📴 Meus gostos passeiam por HQ's, jogos, uma boa conversa calorosa e estudos durante a madrugada. 
 
 ## Para falar comigo: 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fábiojosé/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://https://www.instagram.com/fafabio_alves//)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fábiojosé/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fafabio_alves//)
    
 
 ## Estou estudando atualmente: 
