@@ -14,12 +14,12 @@ Estou sempre buscando aprimorar minha habilidades e conhecimentos.
 
 ## Para falar comigo: 
 
-            <a = href"https://www.google.com/search?q=google&rlz=1C1FCXM_pt-PTBR996BR996&oq=google&aqs=chrome.0.0i67i131i355i433i650j46i67i131i199i433i465i650j69i60l3j69i65l3.5637j0j7&sourceid=chrome&ie=UTF-8" i class="devicon-linkedin-plain-wordmark colored"></i>
+   
           
 
 
 ## Estudando atualmente: 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54); 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54); ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ## Versionamento de Código
 
