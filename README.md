@@ -5,7 +5,7 @@
 
 🚀 Gerente de Sucesso do Cliente na <strong>TITAN</strong>
 
-💻 Auxiliar de TI num ambiente que permite trocas de experiência em um ambiente comporativo diversificado. 
+💻 Auxiliar de TI num setor que permite trocas de experiência em um ambiente comporativo diversificado. 
 
 😃 Sou fascinado com as possibilidades que a área da tecnologia, sobre tudo na programação, pode proporcionais para o mundo. Um entusiata da área de Data Science e Front-end buscando conhecimento para criar soluções. 
 Estou sempre buscando aprimorar minha habilidades que mais estimo. 
