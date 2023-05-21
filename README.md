@@ -1,2 +1,2 @@
 # Olá! Eu sou o Fábio José 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+(https://github-readme-stats.vercel.app/api?gruvboxusername=F4bioJose&show_icons=true&theme=gruvbox)
