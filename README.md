@@ -3,14 +3,14 @@
 
 📚 Graduando de Engenharia de Computação na UFBA
 
-🚀 Gerente de Sucesso do Cliente na 
+🚀 Gerente de Sucesso do Cliente na <strong>TITAN</strong>
 
-💻 Auxiliar de TI num ambiente que permite trocas de experiência com setores de vendas e gestão. 
+💻 Auxiliar de TI num ambiente que permite trocas de experiência em um ambiente comporativo diversificado. 
 
-😃 Sou fascinado com as possibilidades que a área da tecnologia, sobre tudo na programação, tem a oferecer. Entusiata da área de Data Science e Front-end.
-Estou sempre buscando aprimorar minha habilidades e conhecimentos.
+😃 Sou fascinado com as possibilidades que a área da tecnologia, sobre tudo na programação, pode proporcionais para o mundo. Um entusiata da área de Data Science e Front-end buscando conhecimento para criar soluções. 
+Estou sempre buscando aprimorar minha habilidades que mais estimo. 
 
-📴 Meus gostos passeiam por HQ's, jogos, atividades físicas e claro, horas dedicados as novidades do mundo tech. 
+📴 Meus gostos passeiam por HQ's, jogos, uma boa conversa calorosa e estudos durante a madrugada. 
 
 ## Para falar comigo: 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fábiojosé/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://https://www.instagram.com/fafabio_alves//)
