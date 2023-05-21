@@ -1,5 +1,25 @@
 # Olá! Eu sou o Fábio José 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+## Um pouco de mim
+
+📚 Graduando de Engenharia de Computação na UFBA
+
+🚀 Gerente de Sucesso do Cliente na 
+
+💻 Auxiliar de TI num ambiente que permite trocas de experiência com setores de vendas e gestão. 
+
+😃 Sou fascinado com as possibilidades que a área da tecnologia, sobre tudo na programação, tem a oferecer. Entusiata da área de Data Science e Front-end.
+Estou sempre buscando aprimorar minha habilidades e conhecimentos.
+
+📴 Meus gostos passeiam por HQ's, jogos, atividades físicas e claro, horas dedicados as novidades do mundo tech. 
+
+# Para falar comigo: 
+
+
+# Estudando atualmente: 
+[(https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+[(https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+[(https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[(https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
@@ -7,4 +27,5 @@
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=F4bioJose&show_icons=true&theme=tranparent)
+
+
