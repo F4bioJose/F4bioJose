@@ -7,7 +7,7 @@
 
 💻 Auxiliar de TI num setor que permite trocas de experiência em um ambiente comporativo diversificado. 
 
-😃 Sou fascinado com as possibilidades que a área da tecnologia, sobre tudo na programação, pode proporcionais para o mundo. Um entusiata da área de Data Science e Front-end buscando conhecimento para criar soluções. 
+😃 Sou fascinado com as possibilidades que a área da tecnologia, sobre tudo na programação, pode proporcionais para o mundo. Um entusiasta da área de Data Science e Front-end buscando conhecimento para criar soluções. 
 Estou sempre buscando aprimorar minha habilidades que mais estimo. 
 
 📴 Meus gostos passeiam por HQ's, jogos, uma boa conversa calorosa e estudos durante a madrugada. 
