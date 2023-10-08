@@ -3,7 +3,7 @@
 
 📚 Graduando de Engenharia de Computação na UFBA
 
-🚀 Gerente de Sucesso do Cliente na <strong>TITAN</strong>
+🚀 Gerente de Projeto Trainee <strong>TITAN</strong>
 
 💻 Auxiliar de TI num setor que permite trocas de experiência em um ambiente comporativo diversificado. 
 
