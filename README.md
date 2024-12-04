@@ -3,12 +3,10 @@
 
 📚 Graduando de Engenharia de Computação na UFBA
 
-🚀 Gerente de Projeto Trainee <strong>TITAN</strong>
-
 💻 Auxiliar de TI num setor que permite trocas de experiência em um ambiente comporativo diversificado. 
 
-😃 Sou fascinado com as possibilidades que a área da tecnologia, sobre tudo na programação, pode proporcionais para o mundo. Um entusiasta da área de Data Science e Front-end buscando conhecimento para criar soluções. 
-Estou sempre buscando aprimorar minha habilidades que mais estimo. 
+😃 Sou fascinado com as possibilidades que a área da tecnologia, sobre tudo na programação, pode proporcionais para o mundo. Um entusiasta das áreas de Back-end e infraestrutura em busca de conhecimento para criar soluções. 
+Estou sempre buscando aprimorar minhas habilidades que mais estimo. 
 
 📴 Meus gostos passeiam por HQ's, jogos, uma boa conversa calorosa e estudos durante a madrugada. 
 
@@ -17,9 +15,6 @@ Estou sempre buscando aprimorar minha habilidades que mais estimo.
    
 
 ## Estou estudando atualmente: 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
